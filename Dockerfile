@@ -31,3 +31,5 @@ RUN apt-get install -y \
 COPY entrypoint.sh /entrypoint
 RUN chmod +x /entrypoint
 ENTRYPOINT ["/entrypoint"]
+
+CMD ["node"]
