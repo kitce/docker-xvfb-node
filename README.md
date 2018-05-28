@@ -24,6 +24,7 @@ Screen number and server number will be configurable in the future.
 ## Options
 #### `XVFB_SCREEN` (default : `800x600x8`)
 Configure the fake display [(Reference)](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml)
+
 Append this as the environment variable on `docker run`
 #### Example
 ```bash
