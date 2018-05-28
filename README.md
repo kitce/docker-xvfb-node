@@ -1,5 +1,3 @@
-
-
 # docker-xvfb-node
 Normally, Nightmare (or other similar libraries) will not operate properly on headless Linux environment.
 
